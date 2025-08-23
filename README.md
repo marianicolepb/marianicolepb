@@ -1,23 +1,26 @@
 # Hola, soy María Nicole 👋
 
 ## 🚀 Sobre mí
-Estudiante de Ingeniería en Software apasionada por crear aplicaciones web y móviles que resuelvan problemas reales.
+Estudiante de último año de Ingeniería en Software especializada en desarrollo backend y QA automation.
 
 ## 💻 Stack Tecnológico
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Firebase, sql server
-- **Mobile:** React Native
-- **Tools:** Git, Visual Studio, Postman
+- **Backend:** C#, ASP.NET Core, Entity Framework
+- **Database:** SQL Server, MySQL
+- **Frontend:** HTML, CSS, JavaScript (básico)
+- **Testing:** Cypress, Selenium (aprendiendo)
+- **Tools:** Git, Visual Studio, Postman, GitHub
 
-## 🔥 Proyectos Destacados
-- **E-Commerce App:** Tienda online completa con carrito y pagos
-- **Chat App:** Mensajería en tiempo real con notificaciones push
-- **Multiplayer Game:** Juego interactivo con ranking de jugadores
+## 🔥 Proyectos en Desarrollo
+- **API REST con .NET:** Sistema CRUD con autenticación básica
+- **Testing Automation:** Implementando pruebas con Cypress
+- **Database Design:** Esquemas relacionales en SQL Server
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical)
+## 🎯 Actualmente
+- Finalizando carrera en Ingeniería de Software
+- Especializándome en QA Automation
+- Buscando oportunidades junior remotas
 
 ## 📫 Contacto
 - 📧 marianicopb@gmail.com
 - 📱 809-316-1504
-- 💼 https://www.linkedin.com/in/maria-nicole-paulino-beras-56a626321/
+- 💼 [LinkedIn](https://www.linkedin.com/in/maria-nicole-paulino-beras-56a626321/)
